@@ -1,0 +1,14 @@
+
+Importar en el siguiente orden:
+Tablas
+tablas.cfdi.csv
+
+Categorias salariales
+hr.salary.rule.category.csv
+
+Reglas salariales
+hr.salary.rule.csv
+hr.salary.rule(1).csv
+
+Estructuras
+hr.payroll.structure.csv
